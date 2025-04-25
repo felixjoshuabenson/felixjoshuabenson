@@ -1,4 +1,4 @@
-# Felix Joshua Benson
+# About me
 
 Hi, I'm Joshua! 👋
 
