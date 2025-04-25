@@ -63,4 +63,5 @@ Cloudnotte is a robust platform for school management, virtual learning, and tea
 
 If you are interested in collaborating or discussing mobile development, feel free to reach out. I am excited to explore innovative solutions in healthcare, education, and more.
 
-"Great apps begin with great teams. Let's shape the future together!![Cloudnotte Screenshot](https://github.com/user-attachments/assets/8df7e554-f6ee-4e20-9703-d4ba47ba0875)
+"Great apps begin with great teams. Let's shape the future together!
+![Clounote Screenshot](https://github.com/user-attachments/assets/e2801587-6197-4637-b3a4-3e8d2bd04ddc)
