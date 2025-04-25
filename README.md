@@ -39,7 +39,7 @@ Cloudnotte is a robust platform for school management, virtual learning, and tea
 - **Languages**: Dart
 - **Frameworks**: Flutter
 - **APIs**: GraphQL, REST APIs
-- **Tools**: Git, Firebase (assumed)
+- **Tools**: Git, Firebase
 - **Concepts**: Cross-Platform Development, Offline-First Architecture, UI/UX Design
 - **Other**: Team Collaboration, Agile Methodologies, Problem-Solving
 
