@@ -31,7 +31,7 @@ Cloudnotte is a robust platform for school management, virtual learning, and tea
 ## 🎓 Education
 
 - **Bachelor of Science in Computer Science**  
-  University of the People (Online)  
+  University of the People  
   Focused on software engineering, mobile development, and data structures
 
 ## 🛠️ Skills
