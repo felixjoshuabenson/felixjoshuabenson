@@ -1,10 +1,10 @@
 # About me
 
-Hi, I'm Joshua! 👋
+Hi, I'm Joshua! 
 
-I am excited to be a Mobile Engineer focusing on cross-platform mobile applications using Flutter and Dart. I have a Bachelor’s degree in Computer Science from the University of the People and have two impactful apps in healthcare and education on the Google Play Store. I work well on cross-functional teams with frontend, backend, edge, and web developers to create a solid user experience. I am excited to be part of a growing mobile app team full of energy. We are going to make something special.
+I am a mobile engineer who specializes in cross-platform mobile applications using Flutter and Dart. I have a Bachelor’s degree in Computer Science from the University of the People and have two impactful apps in healthcare and education on the Google Play Store. I work well on cross-functional teams with frontend, backend, edge, and web developers to create a solid user experience.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Tojumi-Health](https://play.google.com/store/apps/details?id=com.tojumi.tojumi_health_app&hl=en-US)
 **Simplifying Care Home Communication**
@@ -28,13 +28,13 @@ Cloudnotte is a robust platform for school management, virtual learning, and tea
 - **Impact**: Available on [Google Play Store](https://play.google.com/store/apps/details?id=app.cloudnotte&hl=en-US)
 - **Key Contribution**: Enhanced offline capabilities and built intuitive learning interfaces
 
-## 🎓 Education
+## Education
 
 - **Bachelor of Science in Computer Science**  
   University of the People  
   Focused on software engineering, mobile development, and data structures
 
-## 🛠️ Skills
+## Skills
 
 - **Languages**: Dart
 - **Frameworks**: Flutter
@@ -43,13 +43,13 @@ Cloudnotte is a robust platform for school management, virtual learning, and tea
 - **Concepts**: Cross-Platform Development, Offline-First Architecture, UI/UX Design
 - **Other**: Team Collaboration, Agile Methodologies, Problem-Solving
 
-## 🌟 What I’m Working On
+## What I’m Working On
 
-1. Diving deeper into Flutter for real-time, scalable mobile apps
-2. Exploring GraphQL for efficient data handling in education apps
+1. Improving my skills in Flutter for real-time, scalable mobile apps
+2. Learning UI/UX using the Figma Platform 
 3. Seeking opportunities to grow with a team that pushes my mobile development skills
 
-## ⚽ About Me
+## About Me
 
 - **Hobbies**: Playing chess and cheering for the Super Eagles and FC Barcelona
 - **Passion**: Building apps that make a difference in healthcare and education
@@ -61,7 +61,7 @@ Cloudnotte is a robust platform for school management, virtual learning, and tea
 - **LinkedIn**: [Felix Joshua Benson](https://linkedin.com/in/felix-joshua-benson-2a9547146/)
 - **Email**: [joshuafelix801@gmail.com](mailto:joshuafelix801@gmail.com)
 
-If you are interested in collaborating or discussing mobile development, feel free to reach out. I am excited to explore innovative solutions in healthcare, education, and more.
+If you are interested in collaborating or discussing mobile development, feel free to reach out. I am open to exploring innovative solutions in healthcare, education, and more.
 
-"Great apps begin with great teams. Let's shape the future together!
+"Great apps begin with great teams. Let's collaborate and shape the future together!
 ![Clounote Screenshot](https://github.com/user-attachments/assets/e2801587-6197-4637-b3a4-3e8d2bd04ddc)
