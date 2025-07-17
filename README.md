@@ -2,7 +2,7 @@
 
 Hi, I'm Joshua! 
 
-I am a mobile engineer who specializes in cross-platform mobile applications using Flutter and Dart. I have a Bachelor’s degree in Computer Science from the University of the People and have two impactful apps in healthcare and education on the Google Play Store. I work well on cross-functional teams with frontend, backend, edge, and web developers to create a solid user experience.
+A mobile engineer who specializes in cross-platform mobile applications using Flutter and Dart. I hold a Bachelor’s degree in Computer Science from the University of the People and have developed two impactful apps in healthcare and education, both available on the Google Play Store. I work well on cross-functional teams with frontend, backend, edge, and web developers to create a solid user experience.
 
 ## Featured Projects
 
