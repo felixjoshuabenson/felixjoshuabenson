@@ -2,7 +2,7 @@
 
 Hi, I'm Joshua! 
 
-A mobile engineer who specializes in cross-platform applications using Flutter and Dart. I hold a Bachelor’s degree in Computer Science from the University of the People and have developed two impactful apps in healthcare and education, both of which are available on the Google Play Store. I work well on cross-functional teams with frontend, backend, edge, and web developers to create a solid user experience.
+A mobile engineer who specializes in cross-platform applications using Flutter and Dart. I hold a Bachelor’s degree in Computer Science from the University of the People and have developed two impactful apps in healthcare (tojumi: available on the Google Play Store) and education  (clounotte: available on the Google Play Store). I work well on cross-functional teams with frontend, backend, edge, and web developers to create a solid user experience.
 
 ## Featured Projects
 
@@ -17,7 +17,7 @@ Tojumi-Health connects families with care home residents through real-time updat
 - **Impact**: Available on [Google Play Store](https://play.google.com/store/apps/details?id=com.tojumi.tojumi_health_app&hl=en-US)
 - **Key Contribution**: Developed responsive UI components and integrated secure messaging and photo-sharing features
 
-### [Cloudnotte](https://play.google.com/store/apps/details?id=app.cloudnotte&hl=en-US)
+### [Cloudnotte](https://apps.apple.com/ng/app/cloudnotte/id6744467652)
 **Empowering Education Technology**
 
 Cloudnotte is a robust platform for school management, virtual learning, and teacher-student collaboration. It automates workflows, supports 100% offline/online functionality, and auto-syncs data to the cloud via Cloudnotte Subnet.
@@ -61,7 +61,7 @@ Cloudnotte is a robust platform for school management, virtual learning, and tea
 - **LinkedIn**: [Felix Joshua Benson](https://linkedin.com/in/felix-joshua-benson-2a9547146/)
 - **Email**: [joshuafelix801@gmail.com](mailto:joshuafelix801@gmail.com)
 
-If you are interested in collaborating or discussing mobile development, feel free to reach out. I am open to exploring innovative solutions in healthcare, education, and more.
+If you're interested in collaborating or discussing mobile development, please don't hesitate to reach out. I am open to exploring innovative solutions in healthcare, education, and more.
 
 "Great apps begin with great teams. Let's collaborate and shape the future together!
 ![Clounote Screenshot](https://github.com/user-attachments/assets/e2801587-6197-4637-b3a4-3e8d2bd04ddc)
