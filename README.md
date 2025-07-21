@@ -25,7 +25,7 @@ Cloudnotte is a robust platform for school management, virtual learning, and tea
 - **Role**: Mobile Engineer (Frontend, Version 3)
 - **Team**: Worked with 3 mobile engineers, 4 backend engineers, and 4 web developers
 - **Tech Stack**: Flutter, Dart, GraphQL, Offline-First Architecture
-- **Impact**: Available on [Apple Store](https://play.google.com/store/apps/details?id=app.cloudnotte&hl=en-US)
+- **Impact**: Available on [Apple Store](https://apps.apple.com/ng/app/cloudnotte/id6744467652)
 - **Key Contribution**: Enhanced offline capabilities and built intuitive learning interfaces
 
 ## Education
