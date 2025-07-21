@@ -2,7 +2,7 @@
 
 Hi, I'm Joshua! 
 
-A mobile engineer who specializes in cross-platform applications using Flutter and Dart. I hold a Bachelor’s degree in Computer Science from the University of the People and have developed two impactful apps in healthcare (tojumi: available on the Google Play Store) and education  (clounotte: available on the Google Play Store). I work well on cross-functional teams with frontend, backend, edge, and web developers to create a solid user experience.
+A mobile engineer who specializes in cross-platform applications using Flutter and Dart. I hold a Bachelor’s degree in Computer Science from the University of the People and have developed two impactful apps in healthcare (Tojumi-Health: available on the Google Play Store) and education (Cloudnotte: available on the Apple Store). I work well on cross-functional teams with frontend, backend, edge, and web developers to create a solid user experience.
 
 ## Featured Projects
 
